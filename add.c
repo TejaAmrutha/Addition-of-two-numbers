@@ -1,6 +1,6 @@
 #include<stdio.h>
 int main(){
-  int a,b,sum;
+  int a=5,b=5,sum;
 printf("enter the values of a,b");
 scanf("%d %d",a,b);
 sum=a+b;
